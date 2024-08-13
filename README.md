@@ -37,6 +37,7 @@ Welcome to my data analytics portfolio! I’m Benito, a passionate data analyst 
 - Excel
 - Tableau
 - Power BI
+- R Studio
 - BigQuery
 - Snowflake
 - Google Data Studio
