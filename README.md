@@ -47,6 +47,3 @@ Welcome to my data analytics portfolio! I’m Benito, a passionate data analyst 
 - Snowflake for Beginners: First Snowsight Dashboard from Coursera Project Network
 - Automation Business Analysis – Concepts and Principles at UiPath
 
-## Contact
-Feel free to reach out to me via mobile on 07403634500 or email me at benitoitelewuver@aol.com.
-
