@@ -43,7 +43,7 @@ Welcome to my data analytics portfolio! I am proficient in advanced analytics, a
 - Google Data Studio
 
 ## Certifications
-- Google Data Analytics
-- Snowflake for Beginners: First Snowsight Dashboard from Coursera Project Network
-- Automation Business Analysis – Concepts and Principles at UiPath
+- [Google Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/BPTFSXB95SHQ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof)
+- [Snowflake for Beginners: First Snowsight Dashboard from Coursera Project Network](https://coursera.org/share/18d725a64e8ce010f0532e5ec580096e)
+- [Automation Business Analysis – Concepts and Principles at UiPath](https://coursera.org/share/44a1cbee5a897c36568bcb968f150df7)
 
