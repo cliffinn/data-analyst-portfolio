@@ -1,5 +1,5 @@
 
-# Benito Itele Wuver - Data Analyst Portfolio
+# Benito Wuver - Data Analyst Portfolio
 
 Welcome to my data analytics portfolio! I am proficient in advanced analytics, adept at driving data-driven decision-making. Skilled in various data analysis techniques and tools, consistently delivering actionable recommendations to optimize business processes and enhance performance. Committed to ongoing learning and staying abreast of the latest trends in data analytics for organizational success.
 
