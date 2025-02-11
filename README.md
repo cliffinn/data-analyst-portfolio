@@ -11,25 +11,25 @@ Welcome to my data analytics portfolio! I am proficient in advanced analytics, a
 - **GitHub Link**: [Healthcare EDA with Python](https://github.com/cliffinn/healthcare-datasets-eda-python/blob/main/README.md)
 - **Kaggle Link**: [Healthcare EDA with Python](https://www.kaggle.com/code/benitoitelewuver/healthcare-eda-with-python?scriptVersionId=221878175)
 
-### 2. Customer Shopping Trends
+### 2. Customer Shopping Trends with R
 - **Tools & Technologies**: R, Excel and R Studio
 - **Project Description**: In this project, I analyzed customer shopping data to uncover trends in purchasing behavior. The analysis included segmenting customers based on their shopping patterns and identifying the most popular products.
 - **GitHub Link**: [Customer Shopping Trends](https://github.com/cliffinn/customer-shopping-trends)
 - **Kaggle Link**: [Customer Shopping Trends](https://www.kaggle.com/code/benitoitelewuver/customer-shopping-trends-datasets)
 
-### 3. Employee Data Simulation - IT Industry
+### 3. Employee Data Simulation - IT Industry with R
 - **Tools & Technologies**: R, Excel and R Studio
 - **Project Description**: This project involved simulating a dataset for employees in the IT industry. I performed analysis on various factors such as attrition, salary distribution, and department demographics to gain insights into workforce management.
 - **GitHub Link**: [Employee Data Simulation - IT Industry](https://github.com/cliffinn/employee-data-simulation)
 - **Kaggle Link**: [Employee Data Simulation - IT Industry](https://www.kaggle.com/code/benitoitelewuver/employee-data-simulation-dataset-eda-in-r)
 
-### 4. Population and Demography
+### 4. Population and Demography with R 
 - **Tools & Technologies**: R, Excel and R Studio
 - **Project Description**: This project focuses on analyzing population data to understand demographic changes over time. The analysis includes visualizations of population growth, age distribution, and predictions using machine learning models.
 - **GitHub Link**: [Population and Demography](https://github.com/cliffinn/population-and-demography)
 - **Kaggle Link**: [Population and Demography](https://www.kaggle.com/code/benitoitelewuver/population-and-demography-datasets)
 
-### 5. Financial Analytics
+### 5. Financial Analytics with R
 - **Tools & Technologies**: R, Excel and R Studio
 - **Project Description**: In this project, I conducted a comprehensive financial analysis including revenue trends, expense analysis, and profitability metrics. The project also involved forecasting future financial performance based on historical data.
 - **GitHub Link**: [Financial Analytics](https://github.com/cliffinn/financial-analytics)
