@@ -5,6 +5,12 @@ Welcome to my data analytics portfolio! I am proficient in advanced analytics, a
 
 ## Projects
 
+### 1. Healthcare EDA with Python
+- **Tools & Technologies**: Python(Pandas, Matplotlib, and Seaborn) and Excel.
+- **Project Description**: Exploratory Data Analysis (EDA) for healthcare datasets in Python involves using libraries like Pandas, Matplotlib, and Seaborn to analyze and visualize data, uncovering patterns, trends, and insights related to patient demographics, diagnoses, treatments, and outcomes.
+- **GitHub Link**: [Healthcare EDA with Python](https://github.com/cliffinn/healthcare-datasets-eda-python/blob/main/README.md)
+- **Kaggle Link**: [Healthcare EDA with Python](https://www.kaggle.com/code/benitoitelewuver/healthcare-eda-with-python?scriptVersionId=221878175)
+
 ### 1. Customer Shopping Trends
 - **Tools & Technologies**: R, Excel and R Studio
 - **Project Description**: In this project, I analyzed customer shopping data to uncover trends in purchasing behavior. The analysis included segmenting customers based on their shopping patterns and identifying the most popular products.
