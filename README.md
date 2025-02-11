@@ -8,7 +8,7 @@ Welcome to my data analytics portfolio! I am proficient in advanced analytics, a
 ### 1. Customer Product EDA with POWER BI
 - **Tools & Technologies**:  Power BI (DAX, Data Modelling, Power Query and Data Visualisation), Jira and Confluence.
 - **Project Description**: Exploratory Data Analysis (EDA) for Customer Product dataset encompasses sales and customer metrics, including revenue by customer class, lead source contributions, and regional performance, with key indicators like conversion rates and year-over-year growth. It supports data modeling, visualization, and dashboard creation to provide actionable insights for strategic decision-making and performance optimization.
-- **GitHub Link**: [Customer Product EDA with POWER BI](https://github.com/cliffinn/Customer-Product-Analysis-With-PowerBI/blob/main/README.md)
+- **GitHub Link**: [Customer Product EDA with POWER BI](https://github.com/cliffinn/Customer-Product-Analysis-With-PowerBI/tree/main)
 
 ### 2. Healthcare EDA with Python
 - **Tools & Technologies**: Python(Pandas, Matplotlib, and Seaborn) and Excel.
